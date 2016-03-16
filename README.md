@@ -34,14 +34,14 @@ Cookbooks
 Tutorials
 ---------
 
-* [Managing Python Packages](https://squareup.com/market/david-rojas-llc/managing-python-packages)
-* [Pandas for Excel Developers](https://squareup.com/market/david-rojas-llc/data-analysis-python-for-excel-developers)
-* [Pandas for SQL Developers](https://squareup.com/market/david-rojas-llc/pandas-for-sql-developers)
-* [How to Deal with Dates in Python](https://squareup.com/market/david-rojas-llc/data-analysis-dates)
-* [Plotting in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-plotting-in-pandas) 
-* [Group By Operations in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-group-by)
-* [Lambda functions and masks in Pandas](https://squareup.com/market/david-rojas-llc/data-analysis-lambda-and-masks)
-* [more tutorials...](https://squareup.com/market/david-rojas-llc)
+* [Managing Python Packages](https://gumroad.com/hedaro)
+* [Pandas for Excel Developers](https://gumroad.com/hedaro)
+* [Pandas for SQL Developers](https://gumroad.com/hedaro)
+* [How to Deal with Dates in Python](https://gumroad.com/hedaro)
+* [Plotting in Pandas](https://gumroad.com/hedaro) 
+* [Group By Operations in Pandas](https://gumroad.com/hedaro)
+* [Lambda functions and masks in Pandas](https://gumroad.com/hedaro)
+* [more tutorials...](https://gumroad.com/hedaro)
 
 Free Tools
 ---------
