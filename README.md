@@ -49,6 +49,12 @@ Free Tools
 * [pyrs - Convert your Ipython notebooks](https://pyrs.herokuapp.com/)  
 * [Pandas Bootcamp (beta) - Practice your data wrangling skills](https://pandasbootcamp.herokuapp.com/)
 
-Book Store
+Basics
 -------
-* [Amazon](http://amazon.com/author/davidrojas)
+* [Dataframe](http://www.hedaro.com/pandas-dataframe)
+* [Read_CSV](http://www.hedaro.com/pandas-read-csv)
+* [GroupBY](http://www.hedaro.com/pandas-groupby)
+* [Merge](http://www.hedaro.com/pandas-merge)
+* [Plot](http://www.hedaro.com/pandas-plot)
+* [Concat](http://www.hedaro.com/pandas-concat)
+* [Apply](http://www.hedaro.com/pandas-apply)
