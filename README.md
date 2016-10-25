@@ -31,18 +31,6 @@ Cookbooks
 * [Sort](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Cookbook%20-%20Sort.ipynb)
 * [Python 101](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb)
 
-Tutorials
----------
-
-* [Managing Python Packages](https://gumroad.com/hedaro)
-* [Pandas for Excel Developers](https://gumroad.com/hedaro)
-* [Pandas for SQL Developers](https://gumroad.com/hedaro)
-* [How to Deal with Dates in Python](https://gumroad.com/hedaro)
-* [Plotting in Pandas](https://gumroad.com/hedaro) 
-* [Group By Operations in Pandas](https://gumroad.com/hedaro)
-* [Lambda functions and masks in Pandas](https://gumroad.com/hedaro)
-* [more tutorials...](https://gumroad.com/hedaro)
-
 Free Tools
 ---------
 
