@@ -38,10 +38,10 @@ Free Tools
 
 Basics
 -------
-* [Dataframe](http://www.hedaro.com/pandas-dataframe)
+* [Dataframe](https://blog.hedaro.com/Create-Pandas-DataFrame.html)
 * [Read_CSV](http://www.hedaro.com/pandas-read-csv)
 * [GroupBY](http://www.hedaro.com/pandas-groupby)
 * [Merge](http://www.hedaro.com/pandas-merge)
-* [Plot](http://www.hedaro.com/pandas-plot)
+* [Plot](https://blog.hedaro.com/Create-Pandas-Visualization.html)
 * [Concat](http://www.hedaro.com/pandas-concat)
 * [Apply](http://www.hedaro.com/pandas-apply)
