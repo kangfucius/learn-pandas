@@ -38,10 +38,7 @@ Free Tools
 
 Basics
 -------
-* [Dataframe](https://blog.hedaro.com/Create-Pandas-DataFrame.html)
-* [Read_CSV](http://www.hedaro.com/pandas-read-csv)
-* [GroupBY](http://www.hedaro.com/pandas-groupby)
-* [Merge](http://www.hedaro.com/pandas-merge)
-* [Plot](https://blog.hedaro.com/Create-Pandas-Visualization.html)
-* [Concat](http://www.hedaro.com/pandas-concat)
-* [Apply](http://www.hedaro.com/pandas-apply)
+* [Yahoo Data](http://www.hedaro.com/blog/yahoo-data-using-pandas.html)
+* [Set Index](http://www.hedaro.com/blog/pandas-set-index.html)
+* [Pandas SQL](http://www.hedaro.com/blog/pandas-sql.html)
+* [Copy From Clipboard](http://www.hedaro.com/blog/copy-from-clipboard.html)
