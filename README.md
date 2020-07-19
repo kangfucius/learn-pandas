@@ -8,7 +8,7 @@ How to install Pandas?
 Lessons
 -------
 
-* [01 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/01%20-%20Lesson.ipynb)
+* [01 - Lesson](https://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/0f5af7f1c0b71dbba6c1153488aa001ca6258b73/lessons/01%20-%20Lesson.ipynb)
 * [02 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/02%20-%20Lesson.ipynb)
 * [03 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb)
 * [04 - Lesson](http://nbviewer.ipython.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/04%20-%20Lesson.ipynb)
