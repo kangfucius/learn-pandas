@@ -1,3 +1,6 @@
+# learn-pandas
+mirror Learn pandas by Hernan Rojas
+
 Place for everything Pandas.
 
 How to install Pandas?
@@ -42,3 +45,4 @@ Basics
 * [Set Index](http://www.hedaro.com/blog/pandas-set-index.html)
 * [Pandas SQL](http://www.hedaro.com/blog/pandas-sql.html)
 * [Copy From Clipboard](http://www.hedaro.com/blog/copy-from-clipboard.html)
+=======
